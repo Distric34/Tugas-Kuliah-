@@ -1,0 +1,12 @@
+Bubble Sort (asc)
+1 2 2 4 8 12 15 16 34 78
+Bubble Sort (desc)
+78 34 16 15 12 8 4 2 2 1
+Selection Sort (asc)
+1 2 2 4 8 12 15 16 34 78
+Selection Sort (desc)
+78 34 16 15 12 8 4 2 2 1
+Insertion Sort (asc)
+1 2 2 4 8 12 15 16 34 78
+Insertion Sort (desc)
+78 34 16 15 12 8 4 2 2 1
